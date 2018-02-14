@@ -10,3 +10,5 @@ OK, adding a new file (venus.txt).
 
 Adding changes to staged file.
 
+Bad change
+An even worse change
