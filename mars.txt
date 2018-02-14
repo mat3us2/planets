@@ -5,3 +5,8 @@ more changes
 
 
 even more changes
+
+OK, adding a new file (venus.txt).
+
+Adding changes to staged file.
+
